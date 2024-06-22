@@ -1,0 +1,25 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 5
+    },
+    "auditLog": "C:\\webBarber\\bakend-barber\\src\\utils\\log\\info\\.54167bfa78863a664da7542a8d5549bec89aaa7b-audit.json",
+    "files": [
+        {
+            "date": 1718754661765,
+            "name": "C:\\webBarber\\bakend-barber\\src\\utils\\log\\info\\info-2024-06-18.log",
+            "hash": "3103b6aba4d647ee4e38423f7bfba0afc05a6c7cd9f4b1127046c550d4072eb6"
+        },
+        {
+            "date": 1718928228503,
+            "name": "C:\\webBarber\\bakend-barber\\src\\utils\\log\\info\\info-2024-06-20.log",
+            "hash": "ef9940f5b1ea55d5d0f90aab807dc75d4c05cd82da824cb0c09869cf1dd62b3e"
+        },
+        {
+            "date": 1719067698637,
+            "name": "C:\\webBarber\\bakend-barber\\src\\utils\\log\\info\\info-2024-06-22.log",
+            "hash": "470b4956ad31f38911a56409e116a02801ab750c0f20ad29e66666970c9f41df"
+        }
+    ],
+    "hashType": "sha256"
+}
